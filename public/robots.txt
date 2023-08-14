@@ -1,0 +1,4 @@
+Disallow:http://aa.com/rss/baidu.xml
+Disallow:/admin
+User-agent: *
+Disallow:
